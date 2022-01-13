@@ -19,7 +19,7 @@ function Cards() {
     }
 
     handleCards()
-  }, [])
+  }, [params.category])
 
   return (
     <>
